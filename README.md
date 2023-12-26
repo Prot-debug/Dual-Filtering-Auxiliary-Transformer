@@ -21,7 +21,7 @@ Online action detection (OAD) aims to identify the specific type of ongoing acti
 ## Citation 
 If you find this repository useful, please cite our paper.
 ```
-@InProceedings{10.1007/978-981-99-8537-1_11,
+@InProceedings{jing2024dfaformer,
 title={DFAformer: A Dual Filtering Auxiliary Transformer for Efficient Online Action Detection in Streaming Videos},
 author={Jing, Shicheng and Xie, Liping},
 booktitle={Pattern Recognition and Computer Vision},
