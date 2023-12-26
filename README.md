@@ -13,7 +13,7 @@ Online action detection (OAD) aims to identify the specific type of ongoing acti
 
 * Architecture
 <p align="center">
-<img src=".\DFAformer.png" height = "250" alt="" align=center />
+<img src=".\DFAformer.png" height = "480" alt="" align=center />
 <br><br>
 <b>Figure 1.</b> Overall architecture of DFAformer.
 </p>
