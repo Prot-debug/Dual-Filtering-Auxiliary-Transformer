@@ -32,4 +32,4 @@ isbn="978-981-99-8537-1"
 ```
 
 ## Contact
-If you have any questions, please contact: [scjing10@gmail.com](scjing10@gmail.com)
+If you have any questions, please contact: <a href="mailto:scjing10@gmail.com">scjing10@gmail.com</a>
