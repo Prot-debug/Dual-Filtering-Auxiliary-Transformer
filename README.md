@@ -1,4 +1,4 @@
-# Dual-Filtering-Auxiliary-Transformer (PRCV 2023)
+# DFAformer (PRCV 2023)
 Supplementary material for our PRCV 2023 paper:
 
 > DFAformer: A Dual Filtering Auxiliary Transformer for Efficient Online Action Detection in Streaming Videos.
